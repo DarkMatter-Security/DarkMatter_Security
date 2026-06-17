@@ -12,50 +12,49 @@ Dark Matter Security is not a company. Not a brand. Not a product.
 
 ---
 
-## THE CREW
+## THE ORG
 
-### AntiSyntax.protocol
+```
+DarkMatter-Security (Organization)
+├── DarkMatter_Security      ← Brand hub (you are here)
+├── AntiSyntax-protocol      ← Engineering platform
+├── OmniPentestX             ← Universal pentesting platform
+└── GRAVITAS                 ← Predictive intelligence system
+```
 
-Founded by **voltwizeshea** — one operator, one vision, infinite reach.
-
-We build tools that don't just find vulnerabilities — they predict them. They don't just react to threats — they anticipate them. They don't just defend — they think.
+**Founders** — The ones who built it from zero.
 
 | Handle | Role |
 |--------|------|
-| **voltwizeshea** | Principal Operator / Architect |
+| **voltwizeshea** | Founder / Principal Architect |
+
+---
+
+## PLATFORMS
+
+### [AntiSyntax.protocol](https://github.com/DarkMatter-Security/AntiSyntax-protocol)
+
+*One Framework. Zero Limits. Infinite Power.*
+
+The engineering arm. Builds all tools, frameworks, intelligence pipelines, and autonomous systems under the Dark Matter Security umbrella.
 
 ---
 
 ## PROJECTS
 
-### [GRAVITAS](https://github.com/voltwizeshea/GRAVITAS)
+### [OmniPentestX](https://github.com/DarkMatter-Security/OmniPentestX)
 
-**G**ravity-driven **R**econnaissance & **A**utonomous **V**ulnerability **I**ntelligence **T**hreat **A**nalysis **S**ystem
+**The Fist.** Universal penetration testing platform — 42 tools across 7 categories: recon, web, exploit, OSINT, cloud, antiprotocol, zeroday. Interactive CLI, web dashboard, REST API, GUI, and MCP agent integration.
 
-*Inference-Based Reconnaissance & Predictive Intelligence Platform*
-
-The brain. An 8-stage pipeline (V1-V8) that ingests raw intelligence, builds digital twins, runs predictive inference, and acts autonomously. GRAVITAS doesn't just collect data — it understands what the data means before the attack happens.
-
-- **V1** — Data Ingestion (File, API, OmniPentestX bridge)
-- **V2** — Processing (Normalization, Entity Extraction)
-- **V3** — Inference (Predictive Threat Scoring)
-- **V4** — Graph (Relationship Mapping)
-- **V5** — Probability (Bayesian Attack Path Prediction)
-- **V6** — Temporal (Time-Series Pattern Analysis)
-- **V7** — Digital Twin (Environment Simulation)
-- **V8** — Autonomous (Self-Healing & Auto-Pentest)
-
-**Status:** v0.1.0.dev1 — Pre-alpha, pipeline proven (57 events ingested)
+**Status:** v1.0.0 — OmniForce Stable Release
 
 ---
 
-### [OmniPentestX](https://github.com/voltwizeshea/OmniPentestX-)
+### [GRAVITAS](https://github.com/DarkMatter-Security/GRAVITAS)
 
-**One Framework. Zero Limits. Infinite Power.**
+**The Brain.** Inference-based reconnaissance & predictive intelligence platform. 8-stage pipeline (V1-V8): ingestion, processing, inference, graph, probability, temporal, digital twin, autonomous action.
 
-The fist. A universal penetration testing platform with 42 tools across 7 categories — recon, web, exploit, OSINT, cloud, antiprotocol, zeroday. Interactive CLI, web dashboard, REST API, GUI, and MCP agent integration.
-
-**Status:** v1.0.0 — OmniForce Stable Release (DOWNLOAD NOW)
+**Status:** v0.1.0.dev1 — Pre-alpha, pipeline proven
 
 ---
 
@@ -84,7 +83,7 @@ Every tool we build is **FREE. OPEN. FOR EVERYONE.** No licenses. No paywalls. N
 pip install omnipentestx
 
 # Or grab the wheel from releases
-# https://github.com/voltwizeshea/OmniPentestX-/releases
+# https://github.com/DarkMatter-Security/OmniPentestX/releases
 
 # Install GRAVITAS (pre-alpha)
 pip install gravitas
@@ -104,9 +103,11 @@ We provide the tools. You provide the authorization. Simple.
 
 ## CONNECT
 
-- **GitHub:** [voltwizeshea](https://github.com/voltwizeshea)
-- **OmniPentestX:** [Releases](https://github.com/voltwizeshea/OmniPentestX-/releases)
-- **GRAVITAS:** [Repository](https://github.com/voltwizeshea/GRAVITAS)
+- **Organization:** [github.com/DarkMatter-Security](https://github.com/DarkMatter-Security)
+- **Founder:** [voltwizeshea](https://github.com/voltwizeshea)
+- **AntiSyntax.protocol:** [Platform Repo](https://github.com/DarkMatter-Security/AntiSyntax-protocol)
+- **OmniPentestX:** [Releases](https://github.com/DarkMatter-Security/OmniPentestX/releases)
+- **GRAVITAS:** [Repository](https://github.com/DarkMatter-Security/GRAVITAS)
 
 ---
 
