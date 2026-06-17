@@ -19,7 +19,9 @@ DarkMatter-Security (Organization)
 ├── DarkMatter_Security      ← Brand hub (you are here)
 ├── AntiSyntax-protocol      ← Engineering platform
 ├── OmniPentestX             ← Universal pentesting platform
-└── GRAVITAS                 ← Predictive intelligence system
+├── GRAVITAS                 ← Predictive intelligence system
+├── H-ANS                    ← Quantum neural architecture
+└── zeroday                  ← Zero-day intrusion detector
 ```
 
 **Founders** — The ones who built it from zero.
@@ -55,6 +57,22 @@ The engineering arm. Builds all tools, frameworks, intelligence pipelines, and a
 **The Brain.** Inference-based reconnaissance & predictive intelligence platform. 8-stage pipeline (V1-V8): ingestion, processing, inference, graph, probability, temporal, digital twin, autonomous action.
 
 **Status:** v0.1.0.dev1 — Pre-alpha, pipeline proven
+
+---
+
+### [H-ANS](https://github.com/DarkMatter-Security/H-ANS)
+
+**The Mind.** Hijoluminic Artificial Neural System — quantum-inspired neural architecture with fractal resonance collapse. Zero-day network intrusion detection (100% detection, zero training data) and BCI neural superposition modeling.
+
+**Status:** v0.1.0 — Proven architecture with zenodo DOI + provisional patent
+
+---
+
+### [zeroday](https://github.com/DarkMatter-Security/zeroday)
+
+**The Watch.** Standalone Hijoluminic Zero-Day Detector (HZD) — mathematically principled intrusion detection that cannot be evaded. No signatures. No thresholds. Works on encrypted traffic.
+
+**Status:** v0.1.0 — 100% detection rate, 6-14% FPR
 
 ---
 
@@ -108,6 +126,8 @@ We provide the tools. You provide the authorization. Simple.
 - **AntiSyntax.protocol:** [Platform Repo](https://github.com/DarkMatter-Security/AntiSyntax-protocol)
 - **OmniPentestX:** [Releases](https://github.com/DarkMatter-Security/OmniPentestX/releases)
 - **GRAVITAS:** [Repository](https://github.com/DarkMatter-Security/GRAVITAS)
+- **H-ANS:** [Quantum Neural Architecture](https://github.com/DarkMatter-Security/H-ANS)
+- **zeroday:** [Zero-Day Detector](https://github.com/DarkMatter-Security/zeroday)
 
 ---
 
